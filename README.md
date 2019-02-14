@@ -2,8 +2,8 @@
 
 Mise en place d'une application de chat (chatbot)
 
-- Initialiser le dossier serveur (npm init)
 - Créer un fichier pour le serveur
+- Initialiser le dossier serveur (npm init)
 - Importer les composants express, body-parser, dotenv, ejs, mongoose, path (npm i -s)
 - Configurer le fichier serveur :
     - Créer une constance pour les impots (attention à dotenv)
